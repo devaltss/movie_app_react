@@ -1,2 +1,2 @@
 Movie App 
-React beginner course 
+React project for beginner 
